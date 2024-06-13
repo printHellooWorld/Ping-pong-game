@@ -4,5 +4,5 @@ This Java-based ping pong game is a classic 2D arcade-style game where two playe
 ![ping pong img](https://github.com/printHellooWorld/Ping-pong-game/assets/126945897/bb668cb6-ced9-47ee-996b-dbdfa3693741)
 
 Instructions:
-W for l0eft panel to move up and S for down.
+W for left panel to move up and S for down.
 Up & Down arrow key for left panel.
